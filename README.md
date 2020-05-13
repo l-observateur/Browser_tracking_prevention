@@ -1,9 +1,5 @@
 # Securing your Browser
 
-_"You wouldn't respect me if I didn't try."_
-  
-   -Random student probably...
-
 __This only works with Firefox version 71+__
 
 If you are using Firefox as a default browser and don't want to mess with the default configuration 
