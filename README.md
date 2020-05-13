@@ -20,7 +20,7 @@ Recommended Firefox (or Chrome if that's your thing) Extensions:
 - HTTPS Everywhere _This may already be built in the latest version of FF_
 - Decentraleyes
 - ClearURLs
-- Firefox Multi-Account Containers __May cause page to load slower but isolates Canvas__ 
+- Firefox Multi-Account Containers __May cause page to load slower but isolates Canvas(Set up required)__ 
 
 __The information provided is a slimmed down version of what can be found at:__
 https://www.privacytools.io/browsers/#about_config
