@@ -1,5 +1,7 @@
 # Browser_tracking_prevention
 
+__Online finals is near and the profs are watching__ 
+
 __This only works with Firefox version 71+__
 
 If you are using Firefox as a default browser and don't want to mess with the default configuration 
