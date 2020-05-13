@@ -1,6 +1,7 @@
 # Securing your Browser
 
-__You wouldn't respect me if I didn't try.__ 
+_"You wouldn't respect me if I didn't try."_
+  -- Someone out there probably...
 
 __This only works with Firefox version 71+__
 
