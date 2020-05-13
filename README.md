@@ -29,7 +29,7 @@ https://www.privacytools.io/browsers/#about_config
 
 Visit the site for more information on if to learn what what is being changed. 
 
-## From the [privaytools.io guide](https://www.privacytools.io/browsers/#about_config)##
+## From the [privaytools.io guide](https://www.privacytools.io/browsers/#about_config)
 
 1. Enter "about:config" in the firefox address bar and press enter.
 2. Press the button "Accept the Risk and Continue" [FF71+] or "I accept the risk".
@@ -48,7 +48,7 @@ __Using the "Search Preference" bar__
 - beacon.enabled = false  (__Disables sending additional analytics to web servers.___)
 - network.IDN_show_punycode = true
 
-## Other Methods ##
+## Other Methods
 - Use a second device to look at your notes
 - Screenshots don't help unless there are texts next to it so you can index your notes faster (CTRL+F, MAC+F)
 - Last resort... a virtual machine so you can keep the exam browser open and focused (only if you have a fast computer) a second mouse/KVM migh help with the mouse issue. 
