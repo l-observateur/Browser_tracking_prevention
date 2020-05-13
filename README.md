@@ -1,4 +1,4 @@
-# Browser Tracking Prevention ???
+# Securing your Browser
 
 __You wouldn't respect me if I didn't try.__ 
 
