@@ -27,7 +27,7 @@ __The information provided is a slimmed down version of what can be found at:__
 
 https://www.privacytools.io/browsers/#about_config
 
-Visit the site for more information on if to learn what what is being changed. 
+Visit the site for more information about the changes being made.  
 
 ## From the [privaytools.io guide](https://www.privacytools.io/browsers/#about_config)
 
