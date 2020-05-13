@@ -16,6 +16,7 @@ __Try this__
 https://www.mozilla.org/en-US/firefox/channel/desktop/
 
 Recommended Firefox (or Chrome if that's your thing) Extensions: 
+
 - Ublock Origin
 - HTTPS Everywhere _This may already be built in the latest version of FF_
 - Decentraleyes
@@ -23,7 +24,9 @@ Recommended Firefox (or Chrome if that's your thing) Extensions:
 - Firefox Multi-Account Containers __May cause page to load slower but isolates Canvas(Set up required)__ 
 
 __The information provided is a slimmed down version of what can be found at:__
+
 https://www.privacytools.io/browsers/#about_config
+
 Visit the site for more information on if to learn what what is being changed. 
 
 ## From the [privaytools.io guide](https://www.privacytools.io/browsers/#about_config)##
@@ -38,12 +41,11 @@ __Using the "Search Preference" bar__
 - privacy.trackingprotection.fingerprinting.enabled = true
 - privacy.trackingprotection.enabled = true
 - browser.send_pings = false
-- dom.event.clipboardevents.enabled = false __Disable that websites can get notifications if you copy, paste, or cut 
-something from a web page, and it lets them know which part of the page had been selected.__
+- dom.event.clipboardevents.enabled = false (__Disable that websites can get notifications if you copy, paste, or cut something from a web page, and it lets them know which part of the page had been selected.__)
 - media.navigator.enabled = false
 - webgl.disabled = true (This may cause site breakage that has a lot of animations... not Canvas)
 - browser.sessionstore.privacy_level = 2
-- beacon.enabled = false __Disables sending additional analytics to web servers.__
+- beacon.enabled = false  (__Disables sending additional analytics to web servers.___)
 - network.IDN_show_punycode = true
 
 ## Other Methods ##
