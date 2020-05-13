@@ -53,6 +53,6 @@ __Using the "Search Preference" bar__
 
 
 
-[Exam(EE) Notes](https://www.youtube.com/results?search_query=rick+roll)
+[Exam(EE) Notes](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [Disclaimer](https://github.com/l-observateur/Browser_tracking_prevention/blob/master/Introduction)
