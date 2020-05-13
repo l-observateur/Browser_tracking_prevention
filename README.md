@@ -1,6 +1,6 @@
-# Browser Tracking
+# Browser Tracking Prevention ???
 
-__Online finals is near and the profs are watching__ 
+__You wouldn't respect me if I didn't try.__ 
 
 __This only works with Firefox version 71+__
 
@@ -48,3 +48,10 @@ something from a web page, and it lets them know which part of the page had been
 - Use a second device to look at your notes
 - Screenshots don't help unless there are texts next to it so you can index your notes faster (CTRL+F, MAC+F)
 - Last resort... a virtual machine so you can keep the exam browser open and focused (only if you have a fast computer) a second mouse/KVM migh help with the mouse issue. 
+
+
+
+
+
+
+[Disclaimer](https://github.com/l-observateur/Browser_tracking_prevention/blob/master/Introduction)
