@@ -2,7 +2,7 @@
 
 _"You wouldn't respect me if I didn't try."_
   
-  -- Random student probably...
+  - Random student probably...
 
 __This only works with Firefox version 71+__
 
